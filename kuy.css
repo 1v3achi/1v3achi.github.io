@@ -1,0 +1,42 @@
+html, body{
+    background-color: azure;
+    margin: 0;
+    padding: 0;
+}
+.Lobi{
+    color: black;
+    background-color: rgb(158, 231, 170);
+    padding: 10px;
+    text-decoration: none;
+
+
+}
+.redver{
+    width: 100px;
+   border: 50px solid rgba(0, 0, 0, 0.647); 
+   padding: 0;
+   display: inline-block;
+   border-radius: 20px;            
+
+
+}
+.som{
+    margin: auto;
+    max-width: 700px;
+    text-align: center;
+
+}
+.meu{
+    background-color: black;
+    background-color: rgb(158, 231, 170);
+    padding: 10px;
+    text-decoration: none;
+
+}
+.hed{
+    background-color: pink;
+    color: black;
+    padding: 30px;
+    border-radius: 20px;
+   
+}
